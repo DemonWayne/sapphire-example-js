@@ -1,0 +1,6 @@
+{
+  "dev": "This command is only available to bot owners.",
+  "mod": "This command is only available to moderators.",
+  "nsfw": "This command is only available in NSFW channels",
+  "cooldown": "Please wait {{sec}} seconds before using `{{cmd}}`"
+}

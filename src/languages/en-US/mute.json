@@ -1,0 +1,6 @@
+
+{
+  "erorr": "I cannot mute this user.",
+  "erorr_muted": "This user alredy muted! Mute expire at {{timestamp}}",
+  "success": "{{user}} have been muted. Mute expire at {{timestamp}}"
+}

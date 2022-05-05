@@ -1,0 +1,11 @@
+{
+  "string": "Text (without spaces)",
+  "reason": "Text with spaces",
+  "number": "Integer",
+  "duration": "Duration (30s, 30m, 2h, 15d)",
+  "user": "User (mention or id)",
+  "boolean": "Boolean (true or false)",
+  "use": "Use",
+  "args": "Arguments",
+  "error": "Error"
+}

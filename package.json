@@ -1,0 +1,39 @@
+{
+  "name": "sapphire-example",
+  "version": "1.0.0",
+  "description": "some description",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonWayne/sapphire-example-js.git"
+  },
+  "author": "DemonWayne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DemonWayne/sapphire-example-js/issues"
+  },
+  "homepage": "https://github.com/DemonWayne/sapphire-example-js#readme",
+  "dependencies": {
+    "@sapphire/fetch": "^2.3.1",
+    "@sapphire/framework": "^2.4.1",
+    "@sapphire/plugin-api": "^3.2.1",
+    "@sapphire/plugin-i18next": "^2.5.0",
+    "@sapphire/plugin-logger": "^2.2.1",
+    "@sapphire/ratelimits": "^2.4.4",
+    "discord-api-types": "^0.32.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2"
+  }
+}
